@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "109733987673",
+    "project_id": "azadi-63726",
+    "storage_bucket": "azadi-63726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109733987673:android:c09370640343cfc48e3848",
+        "android_client_info": {
+          "package_name": "com.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3fGvELe2pEGGXaHL2EDte03VRA9i_mNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109733987673:android:e99e5458f7d823ec8e3848",
+        "android_client_info": {
+          "package_name": "com.webrtc.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3fGvELe2pEGGXaHL2EDte03VRA9i_mNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
